@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Christian
 
-<!--
-**IngChristianMtz/IngChristianMtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Sistemas Computacionales con experiencia en soporte técnico TI.
+Aún soy un novato, pero vamos por todo!
 
-Here are some ideas to get you started:
+## Qué hago actualmente
+- Soporte técnico N1/N2: usuarios, permisos, carpetas compartidas, mantenimiento de equipos, etc.
+- Implementación de un balanceador de carga para unificar dos enlaces de red
+- Automatización de registros de reloj biométrico de asistencia, utilizando Google Sheets y Apps Script
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qué estoy aprendiendo
+- 🐍 Python (automatización y desarrollo web con Flask)
+- 🗄️ SQL y bases de datos
+- 🌐 Inglés en mis ratos libres, solo sé lo técnico 😪
+
+## Proyectos
+Próximamente: aquí iré publicando mis ejercicios, scripts de automatización y documentación de soporte.
+
+## Objetivo
+Crecer en TI hacia administración de sistemas, bases de datos y análisis de datos.
